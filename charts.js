@@ -143,11 +143,11 @@ function buildCharts(sample) {
           bar: {color: "dimgrey"},
           axis: { range: [null, 10] },
           steps: [
-            { range: [0, 2], color: "firebrick" },
-            { range: [2, 4], color: "orangered" },
-            { range: [4, 6], color: "yellow" },
-            { range: [6, 8], color: "forestgreen" },
-            { range: [8, 10], color: "royalblue" }
+            { range: [0, 2], color: "indianred" },
+            { range: [2, 4], color: "lightsalmon" },
+            { range: [4, 6], color: "navajowhite" },
+            { range: [6, 8], color: "aquamarine" },
+            { range: [8, 10], color: "cornflowerblue" }
           ],
       }   
 }];
