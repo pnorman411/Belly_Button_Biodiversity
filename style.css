@@ -1,7 +1,12 @@
 body {
-    background-image: url("cdc-QEU-QgIOJKA-unsplash.jpg");
+    color: hsl(221, 85%, 40%);
+    background-color: rgb(220, 239, 245);
+    
    }
 .jumbotron {
-    background-image: url("title.jpg");
-    color: #0F0F0E;
+    
+    background-image: url("Micro_Organisms.jpg");
+    opacity: .9;
+    color: rgb(0, 0, 0);
+        
 }
